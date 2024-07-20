@@ -4,27 +4,23 @@
 <b>IT Operations Engineer</b>
 <!--<a href="https://github.com/sadieedwin">GitHub</a> <a href="https://www.linkedin.com/in/sadieedwin/">LinkedIn</a> </a>-->
 
-<h2> Work Experience: </h2>
-<h2> Skills: </h2>
+<h3> Work Experience: </h3>
+<h3> Skills: </h3>
 
 
 <h2>👨‍💻 Projects: below are just samples</h2>
 
 - <b>Project 1</b>
-  - [Praciting DS & Algos in Python](https://github.com/URL)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/URL) <b><i>(Potentially NSFW)</b></i>
+  - Sample
 - <b>Project 2</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/URL
-  - [JWipe (Disk Wiping Utility)](https://github.com/URL
-  - [Active Directory Bulk User Creation](https://github.com/URL
-  - [FIM (File Integrity Monitor)](https://github.com/URL
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/URL
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/URL
-  - [Keylogger with Email Capability](https://github.com/URL
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/URL
+  - Sample1
+  - Sample2
+  - <b>Project 3</b>
+  - Sample 1
+  - Sample 2
+  - Sample 3
+- <b>Project 4</b>
+  - Sample
 
 <!-- <h2>📺 Popular YouTube Videos</h2>
 
