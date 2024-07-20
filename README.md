@@ -13,7 +13,7 @@ Seeking a challenging role to apply existing skills while pursuing continuous pr
 - Monitoring
 
 ## Tools
-Updating soon....
+Updating soon. . .
 
 ### Operating System
 <div>
@@ -59,7 +59,7 @@ Updating soon....
 </div>
 
 ## Certifications
-Updating soon...!
+Updating soon. . .
 <div>
 <img src="https://img.shields.io/badge/-RHCSA-EE0000?style=for-the-badge&logo=Red%20Hat&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux%2B-FCC624?style=for-the-badge&logo=Linux%20Foundation&logoColor=black" />
@@ -68,6 +68,6 @@ Updating soon...!
 </div>
 
 ## Projects
+Updating soon. . .
 - Dashboard using Smashing platform
 - Bash scripts
-- 
