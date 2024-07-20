@@ -17,8 +17,8 @@
 
 - <b>Linux</b>
   - asdfasf
-- <b>Bash</b>
-  - asdf
+- <b>Scripting</b>
+  - Bash
 
 <h2>👨‍💻 Projects: below are just samples</h2>
 
