@@ -1,12 +1,24 @@
 <!-- this was copied from Josh Madakor's profile (Thanks Josh!)  https://www.youtube.com/watch?v=zgqfWLHNKLk :) --> 
 <h1>Hi, I'm Edwin! </h1>
 <br/>
-<b>IT Operations Engineer</b>
+<!--<b>IT Operations Engineer</b>-->
 <!--<a href="https://github.com/sadieedwin">GitHub</a> <a href="https://www.linkedin.com/in/sadieedwin/">LinkedIn</a> </a>-->
 
-<h3> Work Experience: </h3>
-<h3> Skills: </h3>
+<h2>👨‍💻 Work Experience</h2>
 
+- <b>IT Operations Engineer</b>
+  - ABC
+- <b>Linux System Administrator</b>
+  - XYZ
+- <b>IT Service Desk</b>
+  - ACL
+    
+<h2>Skills </h2>
+
+- <b>Linux</b>
+  - asdfasf
+- <b>Bash</b>
+  - asdf
 
 <h2>👨‍💻 Projects: below are just samples</h2>
 
@@ -15,7 +27,7 @@
 - <b>Project 2</b>
   - Sample1
   - Sample2
-  - <b>Project 3</b>
+- <b>Project 3</b>
   - Sample 1
   - Sample 2
   - Sample 3
@@ -43,7 +55,7 @@
 [linkedin]: https://linkedin.com/in/sadieedwin
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sadieedwin/sadieedwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
