@@ -27,12 +27,6 @@
 - <b>Project 2</b>
   - Sample1
   - Sample2
-- <b>Project 3</b>
-  - Sample 1
-  - Sample 2
-  - Sample 3
-- <b>Project 4</b>
-  - Sample
 
 <!-- <h2>📺 Popular YouTube Videos</h2>
 
