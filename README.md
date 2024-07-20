@@ -15,36 +15,59 @@ Seeking a challenging role to apply existing skills while pursuing continuous pr
 ## Tools
 Updating soon....
 
-### Network
+### Operating System
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Red%20Hat-EE0000?style=for-the-badge&logo=Red%20Hat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Rocky%20Linux-8CC445?style=for-the-badge&logo=Rocky%20Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white" />
+
 </div>
 
-### Endpoint
+### Monitoring
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Icinga-1679A7?style=for-the-badge&logo=Icinga&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=Datadog&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nagios-CC0000?style=for-the-badge&logo=Nagios&logoColor=white" />
 </div>
 
-### SIEM
+### Scripting
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+</div>
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900" />
+</div> 
+
+### Ticketing
+<div>
+    <img src="https://img.shields.io/badge/-Jira%20Software-0052CC?style=for-the-badge&logo=Jira%20Software&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ManageEngine-EB223C?style=for-the-badge&logo=ManageEngine&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BMC%20Remedy-005CBF?style=for-the-badge&logo=BMC%20Software&logoColor=white" />
+
+</div>
+
+### Others
+<div>
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vagrant-1563FF?style=for-the-badge&logo=Vagrant&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+Updating soon...!
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-RHCSA-EE0000?style=for-the-badge&logo=Red%20Hat&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux%2B-FCC624?style=for-the-badge&logo=Linux%20Foundation&logoColor=black" />
+<img src="https://img.shields.io/badge/-AWS%20Certified%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900" />
+
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Dashboard using Smashing platform
+- Bash scripts
+- 
