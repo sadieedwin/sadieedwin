@@ -1,5 +1,5 @@
 # Hello, I'm Edwin
-<a href="https://www.linkedin.com/in/sadieedwin/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sadieedwin/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 IT professional with 8 years of hands-on experience in IT operations, encompassing daily monitoring and involvement in Linux system administration. Eager to expand expertise in Linux systems, cloud technologies, scripting, etc.
 
