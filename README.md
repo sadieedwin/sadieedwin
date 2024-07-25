@@ -6,7 +6,7 @@ IT professional with 8 years of hands-on experience in IT operations, encompassi
 ## Objective
 Seeking a challenging role to apply existing skills while pursuing continuous professional growth in a dynamic IT environment
 
-## Skills | Tools
+## Skills | Technologies | Tools
 Updating soon. . .
 
 ### Operating System
