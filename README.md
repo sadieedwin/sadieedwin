@@ -4,9 +4,6 @@
 IT aficionado with x+years of experience and a PhD in Coffee Consumption. :D
  
 
-## Objective
-Seeking a challenging role to apply existing skills while pursuing continuous professional growth in a dynamic IT environment
-
 ## Skills | Technologies | Tools
 Updating soon. . .
 
