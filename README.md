@@ -64,5 +64,6 @@ Updating soon. . .
 
 ## Projects
 Updating soon. . .
-- Dashboard using Smashing platform
-- Bash scripts
+- Project 1
+- Project 2
+- Project 3
