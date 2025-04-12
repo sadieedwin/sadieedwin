@@ -7,7 +7,7 @@ IT aficionado with x+years of experience and a PhD in Coffee Consumption. :D
 ## Skills | Technologies | Tools
 Updating soon. . .
 
-### Operating System
+### OS
 <div>
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Red%20Hat-EE0000?style=for-the-badge&logo=Red%20Hat&logoColor=white" />
