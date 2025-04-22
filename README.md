@@ -1,9 +1,6 @@
 # Hello, I'm Edwin
 <a href="https://www.linkedin.com/in/sadieedwin/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-IT aficionado with x+years of experience and a PhD in Coffee Consumption. :D
- 
-
 ## Skills | Technologies | Tools
 Updating soon. . .
 
