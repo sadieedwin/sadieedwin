@@ -1,4 +1,6 @@
 # Hello, I'm Edwin
+<small>_An introvert with a PhD in coffee consumption..._'</small>
+
 <a href="https://www.linkedin.com/in/sadieedwin/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Skills | Technologies | Tools
@@ -60,7 +62,8 @@ Updating soon. . .
 </div>
 
 ## Projects
-Updating soon. . .
-- Incident Tracker Web App --> https://github.com/sadieedwin/incident-tracker-web-app
+
+- [Incident Tracker Web App](https://github.com/sadieedwin/incident-tracker-web-app)
+- [URL Repository](https://github.com/sadieedwin/url-repo)
 - Project 2
-- Project 3
+- Updating soon. . .
