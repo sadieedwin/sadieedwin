@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/sadieedwin/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Skills | Technologies | Tools
-Updating soon. . .
+_Updating soon. . ._
 
 ### OS
 <div>
@@ -32,6 +32,9 @@ Updating soon. . .
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=FF9900" />
+    <img src="https://img.shields.io/badge/-EC2-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IAM-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 </div> 
 
 ### Ticketing
@@ -42,24 +45,37 @@ Updating soon. . .
 
 </div>
 
-### Others
+### Version Control & Collaboration
 <div>
     <img src="https://img.shields.io/badge/Git-262577?style=for-the-badge&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/Github-262577?style=for-the-badge&logo=Github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white" />
+</div>
+
+### Web Development:
+<div>
+    <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+</div>
+
+### Others
+<div>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vagrant-1563FF?style=for-the-badge&logo=Vagrant&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
 </div>
 
-## Certifications
+<!--## Certifications
 Updating soon. . .
 <div>
 <img src="https://img.shields.io/badge/-RHCSA-EE0000?style=for-the-badge&logo=Red%20Hat&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux%2B-FCC624?style=for-the-badge&logo=Linux%20Foundation&logoColor=black" />
 <img src="https://img.shields.io/badge/-AWS%20Certified%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900" />
-
 </div>
+-->
 
 ## Projects
 
