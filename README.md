@@ -89,3 +89,14 @@ Updating soon. . .
 - [URL Repository](https://github.com/sadieedwin/url-repo)
 - Project 2
 - Updating soon. . .
+
+<hr/>
+Thanks for stopping by! 👋  
+
+Keep learning, keep building! 🚀
+
+~ Edwin Sadie
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/sadieedwin)
+[![Email](https://img.shields.io/badge/Email-Send-blue?logo=gmail)](mailto:sadieedwin@gmail.com)
+
