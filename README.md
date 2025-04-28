@@ -1,5 +1,11 @@
-# Hello, I'm Edwin
-<small>_An introvert with a PhD in coffee consumption..._'</small>
+# Hi there, I'm Edwin.
+<!--<small>_An introvert with a PhD in coffee consumption..._'</small>-->
+
+Welcome to my GitHub profile!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=0E75B6&width=435&lines=Always+Learning+New+Things;An+InTrovert+/+Ops+Engineer;Linux+/+AWS+/+DevOps+tools+Explorer;Web+Developer+Wannabe+lol)](https://git.io/typing-svg)
+
+![Profile Visitors](https://komarev.com/ghpvc/?username=sadieedwin&label=PROFILE%20VIEWS&color=blue&style=for-the-badge)
 
 <a href="https://www.linkedin.com/in/sadieedwin/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
