@@ -87,7 +87,8 @@ Updating soon. . .
 
 - [Incident Tracker Web App](https://github.com/sadieedwin/incident-tracker-web-app)
 - [URL Repository](https://github.com/sadieedwin/url-repo)
-- Project 2
+- Simple To do list?
+- Task Manager?
 - Updating soon. . .
 
 <hr/>
