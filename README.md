@@ -93,9 +93,7 @@ Updating soon. . .
 - Updating soon. . .
 
 <hr/>
-Thanks for stopping by! 👋  
-
-Keep learning, keep building! 🚀
+Keep learning! 
 
 ~ Edwin Sadie
 
