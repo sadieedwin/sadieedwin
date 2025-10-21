@@ -23,11 +23,14 @@ _Updating soon. . ._
 
 </div>
 
-### Monitoring
+### Monitoring/Observability
 <div>
     <img src="https://img.shields.io/badge/-Icinga-1679A7?style=for-the-badge&logo=Icinga&logoColor=white" />
     <img src="https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=Datadog&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nagios-CC0000?style=for-the-badge&logo=Nagios&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white" />
+
 </div>
 
 ### Scripting
