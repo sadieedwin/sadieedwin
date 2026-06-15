@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=0E75B6&width=435&lines=Always+Learning;Ops+|+Observability+;Infra+|+SRE+|+DevOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=0E75B6&width=435&lines=Always+Learning;Ops+|+Observability)](https://git.io/typing-svg)
 
 ![Profile Visitors](https://komarev.com/ghpvc/?username=sadieedwin&label=PROFILE%20VIEWS&color=blue&style=for-the-badge)
 
